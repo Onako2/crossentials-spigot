@@ -1,0 +1,10 @@
+name: crossentials-spigot
+version: '${version}'
+main: rs.onako2.crossentialsspigot.Crossentials_spigot
+api-version: '1.20'
+load: POSTWORLD
+authors: [Onako2]
+description: Like essentials but for multiple platforms and unified!
+commands:
+  crossentials:
+    permission: crossentials
